@@ -200,7 +200,7 @@
 
 ## 🌈 Members
 
-|            [은하]([https://github.com/sunhpark42](https://github.com/EUN-HA-CHOI))             |            [솜사탕]([https://github.com/devhyun637](https://github.com/sstipdev))             |             [엘라]([https://github.com/sihyung92](https://github.com/shineju))             |                        
+|            [은하](https://github.com/EUN-HA-CHOI)             |            [솜사탕](https://github.com/sstipdev)            |             [엘라](https://github.com/shineju)             |                        
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | 
 | <img src="https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/f3c2d2f6-c01d-49b5-bc22-5ed56079896e" width=200px alt="_"/> | <img src="https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/6087df6c-1820-411a-9e3f-2dabda35bd6f" width=200px alt="_"/> | <img src="https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/b6f32fe2-1ad5-4c9e-bcc8-fd4d48adf170" width=200px alt="_"/> |  
 |                          프론트엔드                         |                          프론트엔드                         |                            프론트엔드                           |                       
