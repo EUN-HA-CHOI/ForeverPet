@@ -7,7 +7,7 @@
 ## 🍻 Intro
 
 <p align="center">
-  <img width="540" alt="foreverpet_image" src="https://github.com/Forever-Pet/foreverpet-frontend/assets/97012561/416a549e-49ff-482b-9deb-dcdd8e4a3088"/>
+  <img width="300" alt="foreverpet_image" src="https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/376a2194-a9ea-449c-9d43-bcc09e3aac39"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react-v17.0.2-9cf?logo=react" alt="react" />
