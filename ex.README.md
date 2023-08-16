@@ -12,6 +12,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react-v17.0.2-9cf?logo=react" alt="react" />
+ 
 </p>
 
 
@@ -198,6 +199,42 @@
 
 - **AWS EC2**를 사용해 서버를 구축했어요.
 
+---
+
+## ⚡️ Convention  
+
+### **React**
+
+- 선언형 프로그래밍으로 작성
+- 재사용 로직의 경우 커스텀 훅에 작성
+- 단일 컴포넌트 내에서 관리되는 상태일 경우엔 useState 사용
+- 프롭스 드릴링 남발 금지 > 전역 상태 관리 라이브러리로 해당 이슈 해결 프롭스 뎁스 3이상
+- props 데이터는 props.데이터로 사용 (props 데이터를 디스트럭처링 문법으로 사용 X)
+- 컴포넌트 이름은 대문자로 시작하고 파스칼 케이스
+- 상태 업데이트는 이전 상태 기반으로 새로운 상태를 계산하고 업데이트 하는 방식 setState((prev) => prev + 1)
+
+### **CSS**
+
+- ClassName 작성 규칙 BEM
+- z-index 최소 값 10부터 증가는 기존 값 + 10 단위로 증가 최고 1000까지
+
+### **JS**
+
+- 카멜 케이스 문법 사용
+- 조건문의 depth가 1 ~ 2일 경우 if() {} return
+- 조건문의 depth가 4 이상일 경우 switch문 사용
+
+### **Git**
+
+- merge전 Approve 코드 리뷰 2개 승인 후 merge
+- 기능 단위 커밋
+
+### **VSC**
+
+- Prettier
+- Using Tab Space Sizing : 2
+  
+---
 
 ## 🌈 Members
 
