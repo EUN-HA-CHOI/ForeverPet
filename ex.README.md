@@ -92,8 +92,8 @@
 <details>
 <summary><b>장바구니</b></summary>
 <div markdown="1">
-
-![장바구니](영상)
+  
+![포에버 - 장바구니](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/91958746-6022-47bd-b046-5f5b7a1e1bc9)
 
 - 상품 카드에서 장바구니 아이콘을 클릭하면 장바구니에 담은 후 확인 할 수 있고, 헤더 부분에 장바구니 아이콘에 수량을 확인 할 수 있습니다.  
 
@@ -106,8 +106,10 @@
 <details>
 <summary><b>결제 페이지</b></summary>
 <div markdown="1">
+  
+![포에버-결제_1](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/13e559c8-c09d-4951-85fb-24e7a7721903)
 
-![결제 페이지](영상)
+![포에버-결제_2](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/5a2c9de1-3ac5-47d6-a56e-b4f28df3cdb4)
 
 - 상품의 상세 페이지에서 사용자의 정보를 입력 한 후 결제수단인 카카오페이로 주문이 가능합니다.
 
@@ -119,9 +121,9 @@
 <summary><b>키워드 검색</b></summary>
 <div markdown="1">
 
-![키워드 검색](영상)
+![포에버-검색](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/9678f4dd-23a9-4b91-b038-2dd274e170fe)
 
-- 사료 , 간식 , 건강식품의 상품들의 키워드로 검색이 가능합니다.
+- 사료, 간식, 건강식품 상품들의 키워드로 검색이 가능합니다.
 
 - debounce 를 사용하여 불필요한 함수 호출을 방지 하였습니다.  
 </div>
