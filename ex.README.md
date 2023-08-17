@@ -62,8 +62,8 @@
 <details>
 <summary><b>상품 추천</b></summary>
 <div markdown="1">
-
-![상품 추천](영상)
+  
+![포에버-상품추천](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/fcf8def7-3fc4-41eb-8332-a2ccc339630b)
 
 - 메인 홈 화면에서 베스트 , 신상품 , 간식 상품들의 API 를 랜덤 호출하여 확인 할 수 있습니다.  
 </div>
@@ -72,8 +72,8 @@
 <details>
 <summary><b>상품 상세 페이지</b></summary>
 <div markdown="1">
-
-![상품 상세 페이지](영상)
+  
+![포에버- 상품상세](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/e9034c60-45bd-4300-b71e-5db03608940e)
 
 - 해당 상품 카드를 클릭하면 상품 상세 페이지로 이동하여 상품 상세 정보를 확인 할 수 있고, 장바구니 & 구매를 할 수 있습니다.    
 </div>
@@ -82,8 +82,8 @@
 <details>
 <summary><b>전체 상품 페이지</b></summary>
 <div markdown="1">
-
-![전체 상품 페이지](영상)
+  
+![포에버-상품전체](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/c7e204b5-a432-4dde-9d9e-0056245c3f7d)
 
 - 햄버거 버튼 또는 메인 홈 카테고리에서 사료 , 간식 , 건강식품을 클릭하면 해당 상품들이 있는 페이지로 이동합니다.   
 </div>
