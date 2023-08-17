@@ -28,7 +28,9 @@
 <summary><b>로그인(카카오 소셜 로그인)</b></summary>
 <div markdown="1">
   
-![로그인(카카오 소셜 로그인)](영상)
+![포에버-로그인](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/c533a151-4d78-4997-8079-3f4f24ebd61f)
+
+(소셜 로그인)
 
 - 포에버펫 사이트에 접속하면 헤더 오른쪽 상단에 로그인 버튼을 눌러 소셜 로그인 , 일반 로그인을 할 수 있습니다.   
 
@@ -40,7 +42,7 @@
 <summary><b>회원가입</b></summary>
 <div markdown="1">
   
-![회원가입](영상)
+![포에버-회원가입](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/5e1b6240-92ef-47a3-995f-9e9c0d1025e1)
 
 - 포에벗 사이트에 접속 하여 회원가입을 클릭하면 사용자 정보와 아이디 중복 확인을 통해 회원가입을 할 수 있습니다.     
 </div>
@@ -50,7 +52,7 @@
 <summary><b>메인(로그인,로그아웃)</b></summary>
 <div markdown="1">
   
-![메인(로그인o)](영상)
+![포에버-인증상태 화면](https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/8094d3f4-99c4-4b7e-9d1f-073e985669f7)
 
 - 로그인 또는 회원가입을 하면 헤더 상단의 인증(로그인,로그아웃) 상태가 변동 됩니다.    
 
@@ -196,7 +198,7 @@
   <img src="https://user-images.githubusercontent.com/52682603/138834271-9004826c-7b4e-418a-95ea-57d1c05f6e8a.png" alt="aws_ec2" width=15%>
 </p>
 
-- **AWS EC2**를 사용해 서버를 구축했어요.
+- **AWS EC2**를 사용해 서버를 구축했습니다.
 
 ---
 
