@@ -11,8 +11,12 @@
   <img width="300" alt="foreverpet_image" src="https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/f548fdcb-ee2b-426c-a4f0-a0e9f4ba633f"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/react-v17.0.2-9cf?logo=react" alt="react" />
- 
+<img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/CSS Modules-ffffff?style=flat&logo=CSS Modules&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Axios-ffffff?style=flat&logo=Axios&logoColor=5A29E4"/>
+<img src="https://img.shields.io/badge/Redux-ffffff?style=flat&logo=Redux&logoColor=764ABC"/>
+<img src="https://img.shields.io/badge/Lodash-ffffff?style=flat&logo=Lodash&logoColor=3492FF"/>
+<img src="https://img.shields.io/badge/Vite-ffffff?style=flat&logo=Vite&logoColor=646CFF"/>
 </p>
 
 
@@ -159,7 +163,7 @@
 더 많은 기술 이야기는 [포에버펫](https:) 에서 확인하세요.
 
 ### Front-end
-<details>
+
 <summary>✅ 역할</summary>
 
 <div markdown="1"> 
@@ -170,9 +174,9 @@
 
 - 엘라 : 마이페이지 (주문내역 , 찜리스트) , 장바구니 페이지 , 상품 페이지 기능 담당   
 </div>
-</details>     
+  
     
-     
+ <summary>✅ 기술스택</summary>    
 <p>
   <img src="https://user-images.githubusercontent.com/52682603/138834243-fb74d81e-e90d-4c6a-8793-05df588f59ab.png" alt="react" width=15%>
   <img src="https://github.com/EUN-HA-CHOI/ForeverPet/assets/97012561/91059825-cef7-4b70-9a48-50e9d93c7b40" alt="CSS MODULE" width=15%>
@@ -206,6 +210,8 @@
 
 ## ⚡️ Convention  
 
+<details>
+
 ### **React**
 
 - 선언형 프로그래밍으로 작성
@@ -236,7 +242,9 @@
 
 - Prettier
 - Using Tab Space Sizing : 2
-  
+
+</details>
+
 ---
 
 ## 🌈 Members
