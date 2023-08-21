@@ -147,15 +147,6 @@
 </div>
 </details>
 
-<details>
-<summary><b>전체보기</b></summary>
-<div markdown="1">
-
-![전체보기](영상)
-
-</div>
-</details>
-
 <br/>
 
 ## ⚡️ Skills
